@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import datetime
-import matplotlib.pyplot as plt
 import base64
 
 st.set_page_config(page_title="Previsão Preço do Petróleo")
