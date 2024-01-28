@@ -6,7 +6,7 @@ import base64
 st.set_page_config(page_title="Previsão Preço do Petróleo")
 
 with st.container():
-    st.subheader("Predição Preço do Petróleo em US$")
+    st.subheader("Preço por Barril de Petróleo (US$)")
     st.title("Evolução do Preço")
     st.write("Para mais insigths [CLIQUE AQUI](https://app.powerbi.com/view?r=eyJrIjoiZTYxZTlmMjYtYzJjNi00NzZkLWJlZGUtMmZhOWMxNzIzZWNiIiwidCI6IjM3YTAxM2ZiLWYxZmEtNDdhOS1iYTJjLTI2MmMwZjIwMGFmYyJ9)")
 
