@@ -8,6 +8,7 @@ st.set_page_config(page_title="Previsão Preço do Petróleo")
 with st.container():
     #st.subheader("Preço por Barril de Petróleo (US$)")
     st.title("Preço por Barril de Petróleo (US$)")
+    st.write("Para a previsão do preço por barril de petróleo foi utilizado Séries Temporais, dentre os modelos o ARIMA foi escolhido por apresentar um melhor desempenho")
     st.write("Para mais insigths [CLIQUE AQUI](https://app.powerbi.com/view?r=eyJrIjoiZTYxZTlmMjYtYzJjNi00NzZkLWJlZGUtMmZhOWMxNzIzZWNiIiwidCI6IjM3YTAxM2ZiLWYxZmEtNDdhOS1iYTJjLTI2MmMwZjIwMGFmYyJ9)")
 
 
