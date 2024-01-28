@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import datetime
-import joblib
-from joblib import load
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 import base64
